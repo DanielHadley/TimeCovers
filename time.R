@@ -4,7 +4,7 @@ library(scales)
 library(reshape2)
 library(dplyr)
 
-setwd("c:/Users/dhadley/Documents/GitHub/tcovers")
+# setwd("c:/Users/dhadley/Documents/GitHub/tcovers")
 setwd("/Users/dphnrome/Documents/Git/tcovers")
 
 #### d ####
